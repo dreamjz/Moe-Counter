@@ -1,5 +1,8 @@
 'use strict'
 
+const dotenv = require('dotenv')
+dotenv.config()
+
 const fs = require('fs')
 const config = require('config-yml')
 const express = require('express')
