@@ -19,5 +19,8 @@
     "mime-types": "^2.1.27",
     "mongoose": "^5.9.28",
     "pug": "^3.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
   }
 }
